@@ -1,0 +1,4 @@
+*.FCBak
+*.FCStd1
+__pycache__/
+02_cad_modelos_base/refs_externas_step/Trek_Session_DH.stp
